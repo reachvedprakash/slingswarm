@@ -8,9 +8,19 @@ This project was originally forked from Slingscold:
 
 ## Compilation
 
+Dependency
+
+libgtk2.0-dev
+valac
+gtk+-3.0
+gee-0.8
+libgnome-menu-3-dev
+
 Enter inside the **build** folder and execute `cmake ..` and after `make`.
 
 ## Post Install
+
+
 
 Once installed set shortcut key to access Slingswarm.
 
